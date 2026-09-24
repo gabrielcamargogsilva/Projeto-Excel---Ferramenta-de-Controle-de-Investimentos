@@ -22,5 +22,5 @@ Este laboratório tem como objetivo aplicar os conceitos de Excel no desenvolvim
 ## Autor
 - **Gabriel Camargo Gonçalves Silva**  
   • [GitHub](https://github.com/gabrielcamargogsilva)  
-  • [LinkedIn](www.linkedin.com/in/gabriel-camargo-dev)
+  • [LinkedIn](https://www.linkedin.com/in/gabriel-camargo-dev)
   • [Email](mailto:gabrielcamargogsilva@gmail.com)
