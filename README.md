@@ -19,4 +19,8 @@ Este laboratório tem como objetivo aplicar os conceitos de Excel no desenvolvim
 - Utilizar o GitHub como ferramenta para compartilhamento de documentação técnica. 
 
 
-
+## Autor
+- **Gabriel Camargo Gonçalves Silva**  
+  • [GitHub](https://github.com/gabrielcamargogsilva)  
+  • [LinkedIn](www.linkedin.com/in/gabriel-camargo-dev)
+  • [Email](mailto:gabrielcamargogsilva@gmail.com)
